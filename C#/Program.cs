@@ -6,7 +6,7 @@
 
 {
     {
-string[] startingArray = new string[] {"ank", "hello", "abc", "world", "smile"};
+string[] startingArray = new string[] {"ank", "hello", "abc", "world", "smile", "int", "up", "internet"};
 string[] resultArray = GenerateResultArray(startingArray);
 PrintResultArray(resultArray);
 
